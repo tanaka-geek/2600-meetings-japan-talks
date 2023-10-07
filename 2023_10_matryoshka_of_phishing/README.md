@@ -1,10 +1,10 @@
 ## Introduction
 
 
-Discussed the importance and prevalence of different file formats and functionalities.
+Discussed the importance and prevalence of various file formats and their functionalities.
 
 *   **PDF (Portable Document Format)**
-    *   Delved into techniques to handle, edit, and fabricate PDF to execute codes.
+    *   Explored techniques to handle, edit, and embed code within PDF files.
     *   Highlighted the security features and potential vulnerabilities.
 
 *   **.DOC (Microsoft Word Document)**
@@ -21,7 +21,7 @@ Discussed the importance and prevalence of different file formats and functional
 *   **Conclusion**
     
     *   Recapped the key points from each section.
-    *   Stressed the importance of understanding and utilizing these techniques that are/were used in the malware samples.
+    *   Emphasized the importance of understanding and applying these techniques, as seen in malware samples.
 
 
 
